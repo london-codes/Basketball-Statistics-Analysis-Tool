@@ -1,0 +1,11 @@
+Requiremnts
+
+
+
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+matplotlib
+tk
