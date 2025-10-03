@@ -1,4 +1,4 @@
-from src.make_csv import update_player_csv
+from make_csv import update_player_csv
 
 """
 Module for updating or creating player CSVs from Basketball Reference.
