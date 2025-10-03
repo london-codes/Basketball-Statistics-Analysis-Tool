@@ -1,9 +1,9 @@
 from tkinter.scrolledtext import ScrolledText
 import tkinter as tk
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-from src.load_csvs import load_groups_auto
-from src.graph import graph_two
-from src.corr_combos import all_correlation_combinations
+from load_csvs import load_groups_auto
+from graph import graph_two
+from corr_combos import all_correlation_combinations
 
 # loading in data keys are names for teams and each key is a array holding the table for each player
 teams = load_groups_auto()
