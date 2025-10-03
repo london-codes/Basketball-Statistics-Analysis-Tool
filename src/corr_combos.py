@@ -10,6 +10,7 @@ import os
 # takes a pair of players and gives all possible permutations of two stats. 
 # example array_stats=[PTS,AST] then 4 correlations will be calculated for PTS PTS, AST PTS, PTS AST, AST AST
 def player_pair_all_permutations_rcoe(player1,player2,array_stats):
+    #stat number index for the stat within the stats variable in the for loop
     stat1 = 0
     stat2 = 1
     corres = []
