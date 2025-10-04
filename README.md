@@ -14,7 +14,5 @@ cd Basketball-Statistics-Analysis-Tool
 pip install -r requirements.txt
 ```
 
-# Limitations
-- Cannot update all players in the database before running the GUI because of Basketball reference rate limit, as it would significantly increase the time to open the application. Instead of this, User must run the list_player_update.py module to update all the players in the database.
 
 
