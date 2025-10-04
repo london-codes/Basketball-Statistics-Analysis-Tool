@@ -1,7 +1,6 @@
-Requiremnts
+## 📦 `requirements.txt`
 
-
-
+```txt
 pandas
 numpy
 requests
